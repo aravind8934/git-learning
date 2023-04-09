@@ -1,2 +1,1 @@
-# git-learning
-to learn git
+the commit was made
