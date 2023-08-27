@@ -5,3 +5,6 @@ for VPC in $VPCID; do
     echo "The vpc id is $VPC"
     echo "-----------------------------"
 done
+
+echo $0
+echo $1
